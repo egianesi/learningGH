@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Song Initiative</title>
+<title>GH</title>
 <meta name="description" content="Song Initiave is a project about song writing and social media. Musicians accross the globe will collaborate to create a song." />
 <meta name="keywords" content="Song, Initiative, Edson, Gianesi, Music, composition, collaboration, social, media"  />
 <link href="CSS/master.css" rel="stylesheet" type="text/css" />
@@ -22,15 +22,10 @@
 -->              <li class="faq"><a href="faq.shtml"><span> F A Q . </span></a></li>
               <li class="contact"><a href="contact.shtml"><span> C o n t a c t .</span></a></li>
 		</ul>
-        <div class="nameLogoTop">
-        	<a href="index.shtml"><img class="logo" src="images/name-logo-hdr2.png" /></a>
-        </div>
     </div>
     <div id="content">
     	<div class="text">
         	<div class="welcome">
-                <h1>Our organic social compositions are in motion!! <br />
-                The branches are easy to spot on the map bellow. Explore the site to learn more about the musicians, to listen to each iteration, to reach out and make new friends.</h1>
                 <p>
                 	Started on: <span>12/11/12</span><br />
                     Trunks: <span> 1</span><br />
