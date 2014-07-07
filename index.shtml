@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Song Initiative</title>
+<meta name="description" content="Song Initiave is a project about song writing and social media. Musicians accross the globe will collaborate to create a song." />
+<meta name="keywords" content="Song, Initiative, Edson, Gianesi, Music, composition, collaboration, social, media"  />
+<link href="CSS/master.css" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+<div id="wrapper">
+    <div id="header">
+    	<ul id="menu">
+              <li class="about"><a href="about.shtml" ><span> A b o u t</span></a></li>
+              <li class="how"><a href="how.shtml"><span> H o w .. </span></a></li>
+              <li class="musicians"><a href="musicians.shtml"><span> M u s i c i ans</span></a></li>
+              <li class="trunks"><a href="trunks.shtml"><span> T r u n k s </span></a></li>
+<!--              <li class="blog"><a href="#"><span> B l o g . </span></a></li>
+-->              <li class="faq"><a href="faq.shtml"><span> F A Q . </span></a></li>
+              <li class="contact"><a href="contact.shtml"><span> C o n t a c t .</span></a></li>
+		</ul>
+        <div class="nameLogoTop">
+        	<a href="index.shtml"><img class="logo" src="images/name-logo-hdr2.png" /></a>
+        </div>
+    </div>
+    <div id="content">
+    	<div class="text">
+        	<div class="welcome">
+                <h1>Our organic social compositions are in motion!! <br />
+                The branches are easy to spot on the map bellow. Explore the site to learn more about the musicians, to listen to each iteration, to reach out and make new friends.</h1>
+                <p>
+                	Started on: <span>12/11/12</span><br />
+                    Trunks: <span> 1</span><br />
+                    Branches: <span> 5</span><br />
+                    Leaves: <span> 13</span><br />                
+                </p>
+			</div>
+		</div>
+        <div class="map">
+        	<img class="logo" src="images/map.png" />
+        </div>
+    </div>
+    <div id="footer">
+        <div class="footer-logo">
+            <img src="images/name-logo-ftr.png" />
+        </div>
+        <div class="socialMedia">
+        	<img src="images/twitter.png" />
+            <img src="images/facebook.png" />
+            <img src="images/rss.png" />
+            <img src="images/stumble.png" />
+        </div>
+    </div>
+</div>
+</body>
+</html>
